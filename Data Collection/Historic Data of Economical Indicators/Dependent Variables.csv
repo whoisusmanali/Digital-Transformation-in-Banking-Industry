@@ -1,21 +1,4 @@
 ﻿Year,Technology,Bubble_Status
-1980,Personal Computing,Emerging Bubble
-1981,Personal Computing,Emerging Bubble
-1982,Personal Computing,Growing Bubble
-1983,Personal Computing,Growing Bubble
-1984,Personal Computing,Full Bubble
-1985,Personal Computing,Full Bubble
-1986,Personal Computing,Full Bubble
-1987,Personal Computing,Growing Bubble
-1988,Personal Computing,Not a Bubble
-1989,Internet,Emerging Bubble
-1990,Internet,Emerging Bubble
-1991,Internet,Growing Bubble
-1992,Internet,Growing Bubble
-1993,Internet,Full Bubble
-1994,Internet,Full Bubble
-1995,Internet,Full Bubble
-1996,Internet,Full Bubble
 1997,Internet,Full Bubble
 1998,Internet,Growing Bubble
 1999,Internet,Growing Bubble
@@ -36,15 +19,31 @@
 2014,Mobile Technology,Growing Bubble
 2015,Blockchain,Emerging Bubble
 2016,Blockchain,Growing Bubble
+2016,Virtual Reality,Emerging Bubble
 2017,Blockchain,Growing Bubble
+2017,Virtual Reality,Growing Bubble
+2017,Augmented Reality,Emerging Bubble
 2018,Blockchain,Full Bubble
+2018,Virtual Reality,Full Bubble
+2018,Augmented Reality,Growing Bubble
+2018,Internet of Things,Emerging Bubble
 2019,Blockchain,Full Bubble
+2019,Augmented Reality,Full Bubble
+2019,Internet of Things,Growing Bubble
 2020,AI,Emerging Bubble
+2020,Internet of Things,Growing Bubble
+2020,Augmented Reality,Growing Bubble
 2021,AI,Growing Bubble
+2021,Internet of Things,Full Bubble
+2021,Augmented Reality,Full Bubble
+2021,5G Technology,Emerging Bubble
 2022,AI,Growing Bubble
+2022,Internet of Things,Growing Bubble
+2022,Augmented Reality,Growing Bubble
+2022,5G Technology,Growing Bubble
 2023,AI,Full Bubble
-2024,Quantum Computing,Emerging Bubble
-2024,Metaverse,Emerging Bubble
-2024,Renewable Energy Tech,Growing Bubble
-2024,Biotechnology,Emerging Bubble
-2024,Autonomous Vehicles,Emerging Bubble
+2023,Quantum Computing,Emerging Bubble
+2023,Internet of Things ,Full Bubble
+2023,Augmented Reality,Full Bubble
+2023,5G Technology,Growing Bubble
+2023,Renewable Energy Tech,Growing Bubble

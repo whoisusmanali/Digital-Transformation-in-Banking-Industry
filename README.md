@@ -94,4 +94,9 @@ The selected Prophet algorithm for time series predictions achieved high accurac
 - Develop a visualization dashboard for real-time tracking of predictions.
 - Explore advanced deep learning techniques for time series forecasting.
 
+
+## TimeSeries Forecasting
+![alt text](<Screenshot 2024-11-01 at 6.18.27 PM.png>)
+
+![alt text](<Screenshot 2024-11-01 at 6.17.53 PM-1.png>)
 ---

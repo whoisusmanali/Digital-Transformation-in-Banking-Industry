@@ -99,4 +99,9 @@ The selected Prophet algorithm for time series predictions achieved high accurac
 ![alt text](<Screenshot 2024-11-01 at 6.18.27 PM.png>)
 
 ![alt text](<Screenshot 2024-11-01 at 6.17.53 PM-1.png>)
+
+
+## Insights:
+<img width="1235" alt="Screenshot 2024-11-15 at 7 34 36 PM" src="https://github.com/user-attachments/assets/37876f37-227e-443e-9e00-f0b45cfcb67a">
+
 ---
